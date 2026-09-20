@@ -1,0 +1,6 @@
+# Anthropic-managed built-in skills sync — not personal content, regenerated per machine
+synced/
+
+__pycache__/
+*.pyc
+.DS_Store
