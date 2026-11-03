@@ -1,0 +1,14 @@
+{
+  "name": "my-claude-skills",
+  "owner": {
+    "name": "Osher Boudara"
+  },
+  "description": "Osher Boudara's Claude Code mods, kept alongside personal skills",
+  "plugins": [
+    {
+      "name": "token-meter",
+      "source": "./mods/token-meter",
+      "description": "Token, cost and usage meter above the prompt, toggled with /tokens"
+    }
+  ]
+}
