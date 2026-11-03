@@ -4,3 +4,7 @@ synced/
 __pycache__/
 *.pyc
 .DS_Store
+
+# Mods (plugins): engine-generated type stubs and tsconfig, rewritten on each load
+**/.claude-plugin/types/
+mods/*/tsconfig.json
