@@ -1,0 +1,9 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Token, cost and usage meter above the prompt, toggled with /tokens",
+  "author": {
+    "name": "Osher Boudara"
+  },
+  "types": "./types/index.d.ts"
+}
